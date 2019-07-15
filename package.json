@@ -1,0 +1,11 @@
+{
+  "name": "css_trials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "compile-sass": "sass --watch main/styles/main.scss main/styles/styles.css"
+  },
+  "author": "Ravi",
+  "license": "ISC"
+}
